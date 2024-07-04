@@ -35,6 +35,6 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd trompellot-portfolio
+    cd portfolio_trompellott
     ```
 3. Abre el archivo `index.html` en tu navegador preferido.
