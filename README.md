@@ -1,6 +1,6 @@
 # Trompellot Art Portfolio
 
-¡Bienvenidos al portafolio de Trompellot! Este sitio web ha sido creado para mostrar el increíble trabajo de Trompellot, una talentosa ilustradora. Este repositorio contiene el código fuente del sitio web, diseñado y desarrollado por mi, Nuria Bravo.
+Este repositorio contiene el código fuente del sitio web sobre la ilustradora Trompellott.
 
 ## Tabla de Contenidos
 
@@ -11,7 +11,7 @@
 
 ## Sobre Trompellot
 
-Trompellot es una ilustradora apasionada por crear mundos únicos y personajes carismáticos. Con años de experiencia en el arte digital y tradicional, siempre busca nuevas formas de expresar su creatividad y conectar con otros a través de sus obras.
+En esta sección podrás conocer un poco más sobre Trompellot.
 
 ## Proyectos
 
